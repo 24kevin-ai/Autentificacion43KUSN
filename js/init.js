@@ -2,11 +2,11 @@
  * configuración en tu servidor de Firebase.  */
 // @ts-ignorar
 base de incendios. initializeApp({
-    apiKey: "AIzaSyDNB5IdpaOiw7iGSfNJrk6AR8bWbiQlxUU",
-    authDomain: "autentificacion43gvlf.firebaseapp.com",
-    projectId: "autentificacion43gvlf",
-    storageBucket: "autentificacion43gvlf.appspot.com",
-    messagingSenderId: "1012902297327",
-    appId: "1:1012902297327:web:e43b8b093fef7c813ca51a",
-    measurementId: "G-PFWFFP9EPJ"
+    apiKey: "AIzaSyCe_nmH6eo8xGZf59KIRyoo61kn70_iYKg",
+    authDomain: "autentifica43kus.firebaseapp.com",
+    projectId: "autentifica43kus",
+    storageBucket: "autentifica43kus.appspot.com",
+    messagingSenderId: "633947480746", 
+    appId: "1:633947480746:web:523dc3ea40aeb8126226d3",
+    measurementId: "G-HQDYRME0DZ"
 });
